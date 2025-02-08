@@ -1,0 +1,2264 @@
+[
+    {
+      "file_number": "001.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "right turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "red"
+        }
+      ]
+    },
+    {
+      "file_number": "002.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "red"
+        }
+      ]
+    },
+    {
+      "file_number": "003.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "004.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "green"
+        }
+      ]
+    },
+    {
+      "file_number": "005.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "left turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "red"
+        }
+      ]
+    },
+    {
+      "file_number": "006.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "007.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "008.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "left turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "009.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "red"
+        }
+      ]
+    },
+    {
+      "file_number": "010.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "011.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "012.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "013.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "014.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "left turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "red"
+        }
+      ]
+    },
+    {
+      "file_number": "015.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "016.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "017.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "018.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "green"
+        }
+      ]
+    },
+    {
+      "file_number": "019.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "right turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "020.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "021.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "022.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "023.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "left turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "red"
+        }
+      ]
+    },
+    {
+      "file_number": "024.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "025.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "left turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "red"
+        }
+      ]
+    },
+    {
+      "file_number": "026.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "027.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "left turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "028.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "right turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "green"
+        }
+      ]
+    },
+    {
+      "file_number": "029.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "030.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "right turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "red"
+        }
+      ]
+    },
+    {
+      "file_number": "031.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "left turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "unknown"
+        }
+      ]
+    },
+    {
+      "file_number": "032.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "033.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "034.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "035.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "036.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "037.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "038.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "039.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "red"
+        }
+      ]
+    },
+    {
+      "file_number": "040.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "T-junction (Dead-end to the left)"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "right turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "unknown"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "unknown"
+        }
+      ]
+    },
+    {
+      "file_number": "041.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "042.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "043.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "044.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "left turn"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "left turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "045.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "046.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "left turn"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "047.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "red"
+        }
+      ]
+    },
+    {
+      "file_number": "048.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "049.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "050.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "right turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "051.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "052.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "T-junction (Dead-end ahead)"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "right turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "unknown"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "unknown"
+        }
+      ]
+    },
+    {
+      "file_number": "053.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "054.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "green"
+        }
+      ]
+    },
+    {
+      "file_number": "055.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "056.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "red"
+        }
+      ]
+    },
+    {
+      "file_number": "057.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "T-junction (Dead-end ahead)"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "058.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "059.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "060.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "061.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "left turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "red"
+        }
+      ]
+    },
+    {
+      "file_number": "062.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "T-junction (Dead-end to the left)"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "right turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "yellow"
+        }
+      ]
+    },
+    {
+      "file_number": "063.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "red"
+        }
+      ]
+    },
+    {
+      "file_number": "064.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "066.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "left turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "green"
+        }
+      ]
+    },
+    {
+      "file_number": "066.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "left turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "green"
+        }
+      ]
+    },
+    {
+      "file_number": "067.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "068.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "T-junction (Dead-end to the left)"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "069.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "070.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "left turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "red"
+        }
+      ]
+    },
+    {
+      "file_number": "071.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "green"
+        }
+      ]
+    },
+    {
+      "file_number": "072.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "073.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "unknown"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "074.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "075.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "straight road"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "opposite direction"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    },
+    {
+      "file_number": "076.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "red"
+        }
+      ]
+    },
+    {
+      "file_number": "077.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "crossroad"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the right"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "signal present"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "red"
+        }
+      ]
+    },
+    {
+      "file_number": "078.mp4",
+      "judgement_items": [
+        {
+          "category": "Intersection configuration",
+          "answer": "T-junction (Dead-end to the left)"
+        },
+        {
+          "category": "Direction of own vehicle",
+          "answer": "straight"
+        },
+        {
+          "category": "initial position of the other vehicle",
+          "answer": "from the left"
+        },
+        {
+          "category": "Direction of the other vehicle",
+          "answer": "right turn"
+        },
+        {
+          "category": "Presence of opposing traffic signals",
+          "answer": "no signal"
+        },
+        {
+          "category": "Color of the opposing traffic signal",
+          "answer": "-"
+        }
+      ]
+    }
+  ]
